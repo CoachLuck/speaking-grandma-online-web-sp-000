@@ -5,7 +5,7 @@ def speak_to_grandma(str)
     return "I LOVE YOU TOO PUMPKIN!"
   end
   if str == str.upcase()
-    return "NO, NOT SINCE 1938"
+    return "NO, NOT SINCE 1938!"
   end
 
   return "HUH?! SPEAK UP, SONNY!"
